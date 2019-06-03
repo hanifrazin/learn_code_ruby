@@ -9,3 +9,5 @@ puts 0.578
 
 puts 12+19
 puts "20"+"12"
+
+puts "I code Ruby on Rails Now" #Ruby 
